@@ -24,6 +24,8 @@ _Open an issue on this repository_
 ## Technologies Used
 
 _HTML_
+_CSS_
+_Bootstrap_
 
 ### License
 

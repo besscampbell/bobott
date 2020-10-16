@@ -1,0 +1,28 @@
+img.pic {
+  margin: 12px;
+  float: left;
+  width: 50%;
+  height: auto;
+  border: 10px solid rgb(253, 253, 150);
+  padding: 10px;
+}
+
+p {
+  margin-top: 10%;
+}
+
+h1 {
+  color: rgb(253, 253, 150);
+  text-align: center;
+}
+
+.card {
+  width: 50%;
+  float: left;
+  background: transparent;
+}
+
+body {
+  background: rgb(236,150,36);
+  background: radial-gradient(circle, rgba(236,150,36,0.9880774962742176) 0%, rgba(250,249,135,0.9865871833084948) 100%);
+}
